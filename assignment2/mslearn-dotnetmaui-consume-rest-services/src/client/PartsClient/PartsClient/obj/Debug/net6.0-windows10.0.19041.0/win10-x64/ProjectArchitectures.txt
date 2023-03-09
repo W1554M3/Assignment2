@@ -1,0 +1,1 @@
+C:\Users\wissa\mslearn-dotnetmaui-consume-rest-services\src\client\PartsClient\PartsClient\PartsClient.csproj;x64
